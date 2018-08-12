@@ -49,6 +49,7 @@
 		67BB2D6A2120A7C900C47EB5 /* Info-iOSTests.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-iOSTests.plist"; sourceTree = "<group>"; };
 		67BB2D6B2120A7C900C47EB5 /* Info-macOSTests.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Info-macOSTests.plist"; sourceTree = "<group>"; };
 		67BB2D6C2120A7C900C47EB5 /* Overlay.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Overlay.swift; sourceTree = "<group>"; };
+		67BB2D7A2120AB9F00C47EB5 /* Package.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +103,7 @@
 		67BB2D092120A68C00C47EB5 = {
 			isa = PBXGroup;
 			children = (
+				67BB2D7A2120AB9F00C47EB5 /* Package.swift */,
 				67BB2D632120A7C900C47EB5 /* Sources */,
 				67BB2D692120A7C900C47EB5 /* Tests */,
 				67BB2D162120A6AE00C47EB5 /* Products */,
@@ -300,6 +302,7 @@
 				TargetAttributes = {
 					67BB2D142120A6AE00C47EB5 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 0940;
 					};
 					67BB2D1D2120A6AE00C47EB5 = {
 						CreatedOnToolsVersion = 9.4.1;
